@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Hemant Singh</h1>
+<h3 align="center">🚀 A Passionate Freelancer | TALL Stack Developer | Cybersecurity Aficionado 🔐</h3>
+<h4 align="center">I believe 🌟 "Code isn’t just meant to work; it’s meant to be secure, resilient, and built to last." ✨</h4>
 
-<!--
-**0xant/0xant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Current Focus:
+- 🌐 Mastering the TALL Stack: Sharpening my expertise in crafting seamless, responsive web applications with Tailwind CSS, Alpine.js, Laravel, and Livewire.
+- 🔐 Cybersecurity & Bug Bounty Hunting: Deep-diving into the art of securing systems and uncovering vulnerabilities. Currently on an exciting journey to earn **[Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)** certification from **Hack The Box**.
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📞 Connect With Me:
+<p align="left">
+  <a href="https://linkedin.com/in/hemantsingh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+
+
+Feel free to reach out and collaborate on exciting projects! 😊
