@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Current Focus:
-- 🌐 Mastering the TALL Stack: Sharpening my expertise in crafting seamless, responsive web applications with Tailwind CSS, Alpine.js, Laravel, and Livewire.
+- 🌐 Mastering the TALL Stack: Sharpening my expertise in crafting seamless, responsive and secure web applications with Tailwind CSS, Alpine.js, Laravel, and Livewire.
 - 🔐 Cybersecurity & Bug Bounty Hunting: Deep-diving into the art of securing systems and uncovering vulnerabilities. Currently on an exciting journey to earn **[Certified Bug Bounty Hunter](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)** certification from **Hack The Box**.
   
 ---
