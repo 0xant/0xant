@@ -12,11 +12,11 @@
 
 ### 📞 Connect With Me:
 <p align="left">
-  <a href="https://linkedin.com/in/hemantsingh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/hemantsingh-0xant" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
   </a>
 </p>
 
-
+---
 
 Feel free to reach out and collaborate on exciting projects! 😊
