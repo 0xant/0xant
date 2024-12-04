@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Hemant Singh</h1>
-<h3 align="center">🚀 A Passionate Freelancer | TALL Stack Developer | Cybersecurity Aficionado 🔐</h3>
+<h3 align="center">🚀 Freelancer | TALL Stack Developer | Cybersecurity Aficionado 🔐</h3>
 <h4 align="center">I believe 🌟 "Code isn’t just meant to work; it’s meant to be secure, resilient, and built to last." ✨</h4>
 
 ---
